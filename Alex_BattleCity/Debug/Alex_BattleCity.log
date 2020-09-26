@@ -1,0 +1,20 @@
+﻿  Tank.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  FDraw.h-->Linking with ddraw.lib
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\common.h(37,1): warning C4005: 'BulletSpeed': macro redefinition
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Bullet.h(11): message : see previous definition of 'BulletSpeed'
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(194,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(195,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(200,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(204,119): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(204,81): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(287,19): warning C4018: '<': signed/unsigned mismatch
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(378,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(380,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(384,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(386,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(391,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(395,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(399,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Study\BattleCity\BattleCity\Alex_BattleCity\Tank.cpp(403,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Alex_BattleCity.vcxproj -> D:\Study\BattleCity\BattleCity\Debug\Alex_BattleCity.exe
